@@ -1,11 +1,7 @@
-import React from 'react'
-
-function Share() {
+export default function ShareMealPage() {
 	return (
 		<div>
-			<p>Share route</p>
+			<h1>Share Meal Page</h1>
 		</div>
 	)
 }
-
-export default Share

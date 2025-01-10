@@ -1,11 +1,5 @@
-import React from 'react'
-
-function CommunityPage() {
-	return (
-		<div>
-			<p>Community Page</p>
-		</div>
-	)
+export default function CommunityPage() {
+	return <h1>
+		Community Page
+	</h1>
 }
-
-export default CommunityPage
