@@ -21,7 +21,7 @@ export default async function MealsPage() {
 					Delicious meals, created <span className={classes.highlight}>by you</span>
 				</h1>
 				<p>
-					Choose your favorite recipe and cook it yourself. It si easy
+					Choose your favorite recipe and cook it yourself. It is easy
 				</p>
 				<p className={classes.cta}>
 					<Link href="/meals/share">
